@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMPLEJIDAD_CON_FORMULARIOS.Properties
+namespace Actividad_4_programacion.Properties
 {
 
 

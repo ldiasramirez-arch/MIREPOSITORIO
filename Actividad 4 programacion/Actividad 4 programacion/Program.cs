@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace COMPLEJIDAD_CON_FORMULARIOS
+namespace Actividad_4_programacion
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace COMPLEJIDAD_CON_FORMULARIOS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Formain());
+            Application.Run(new FormMDI());
         }
     }
 }

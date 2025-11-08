@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMPLEJIDAD_CON_FORMULARIOS.Properties
+namespace Actividad_4_programacion.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace COMPLEJIDAD_CON_FORMULARIOS.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("COMPLEJIDAD_CON_FORMULARIOS.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Actividad_4_programacion.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
